@@ -1,0 +1,19 @@
+/* Home.css */
+
+.home-container {
+    display: flex;
+    justify-content: center; /* จัดกึ่งกลางแนวนอน */
+    align-items: center; /* จัดกึ่งกลางแนวตั้ง */
+    min-height: 100vh; /* ให้ container สูงเต็มจอ */
+    background-color: #f0f0f0; /* สีพื้นหลังอ่อนๆ */
+  }
+  
+  .welcome-text {
+    font-size: 3rem; /* ขนาดตัวอักษรใหญ่ */
+    font-weight: bold; /* ตัวหนา */
+    color: #333; /* สีเข้ม */
+    text-align: center; /* จัดกึ่งกลาง */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* เงา */
+  }
+
+  
